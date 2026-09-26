@@ -50,6 +50,12 @@
 - Hermes 配置里 `discover_models` 保持 `false`（原因同上）；
 - 免费公网隧道（如果用）域名会变，保活脚本会自动更新并通知你。
 
+## 致谢
+
+- [WorkBuddy Gateway](https://github.com/CangShui/workbuddy-gateway)（作者 CangShui）——
+  本方案的网关基础：把 WorkBuddy / CodeBuddy 账号转成标准 OpenAI 接口的开源项目，
+  没有它就没有这套免费方案，感谢开源。
+
 ## License
 
 MIT
