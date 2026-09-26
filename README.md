@@ -6,7 +6,7 @@
 
 两样东西拼在一起：
 
-- **WorkBuddy Local Gateway**：一个跑在本地的小网关（Go 写的，单个二进制文件），
+- **[WorkBuddy Gateway](https://github.com/CangShui/workbuddy-gateway)（作者 CangShui），
   把你的 WorkBuddy 账号转成标准的 OpenAI 接口，跑在 `127.0.0.1:8317`。
 - **Hermes**：跑在沙盒里的 AI Agent，接上网关之后，就能在微信里跟你聊天、帮你干活。
 
